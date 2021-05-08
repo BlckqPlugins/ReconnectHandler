@@ -2,7 +2,7 @@ package com.stimomc;
 
 import com.stimomc.handler.JoinHandler;
 import com.stimomc.handler.ReconnectHandler;
-import dev.waterdog.plugin.Plugin;
+import dev.waterdog.waterdogpe.plugin.Plugin;
 
 public class Main extends Plugin {
 

@@ -1,9 +1,9 @@
 package com.stimomc.handler;
 
-import dev.waterdog.ProxyServer;
-import dev.waterdog.network.ServerInfo;
-import dev.waterdog.player.ProxiedPlayer;
-import dev.waterdog.utils.types.IJoinHandler;
+import dev.waterdog.waterdogpe.ProxyServer;
+import dev.waterdog.waterdogpe.network.ServerInfo;
+import dev.waterdog.waterdogpe.player.ProxiedPlayer;
+import dev.waterdog.waterdogpe.utils.types.IJoinHandler;
 
 public class JoinHandler implements IJoinHandler {
 
